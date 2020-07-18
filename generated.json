@@ -1,0 +1,79 @@
+{
+  "financials": [
+    {
+      "year": 2005,
+      "revenue": 8.49,
+      "ebitdaMargin": 6.51
+    },
+    {
+      "year": 2006,
+      "revenue": 10.71,
+      "ebitdaMargin": 5.55
+    },
+    {
+      "year": 2007,
+      "revenue": 14.84,
+      "ebitdaMargin": 6.07
+    },
+    {
+      "year": 2008,
+      "revenue": 19.17,
+      "ebitdaMargin": 5.89
+    },
+    {
+      "year": 2009,
+      "revenue": 24.51,
+      "ebitdaMargin": 6.15
+    },
+    {
+      "year": 2010,
+      "revenue": 34.20,
+      "ebitdaMargin": 5.77
+    },
+    {
+      "year": 2011,
+      "revenue": 48.08,
+      "ebitdaMargin": 4.05
+    },
+    {
+      "year": 2012,
+      "revenue": 61.09,
+      "ebitdaMargin": 4.64
+    },
+    {
+      "year": 2013,
+      "revenue": 74.45,
+      "ebitdaMargin": 5.37
+    },
+    {
+      "year": 2014,
+      "revenue": 88.99,
+      "ebitdaMargin": 5.53
+    },
+    {
+      "year": 2015,
+      "revenue": 107.01,
+      "ebitdaMargin": 7.96
+    },
+    {
+      "year": 2016,
+      "revenue": 135.99,
+      "ebitdaMargin": 9.05
+    },
+    {
+      "year": 2017,
+      "revenue": 177.87,
+      "ebitdaMargin": 8.76
+    },
+    {
+      "year": 2018,
+      "revenue": 232.89,
+      "ebitdaMargin": 11.92
+    },
+    {
+      "year": 2019,
+      "revenue": 280.52,
+      "ebitdaMargin": 12.95
+    }
+  ]
+}
